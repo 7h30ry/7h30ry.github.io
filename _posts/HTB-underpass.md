@@ -1,5 +1,14 @@
 
-ip/hostname: 10.10.11.48/underpass.htb
+---
+title: Underpass @ HTB
+date: 2025-12-20
+categories: [Machine, HTB]
+tags: [writeups, HTB, Machines]
+math: true
+mermaid: true
+---
+
+```ip/hostname: 10.10.11.48/underpass.htb```
 
 ## Scan
 Doing a TCP sacn only gave port 80 and 22 which had nothing in it
