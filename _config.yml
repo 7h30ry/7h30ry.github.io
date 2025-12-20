@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: McSam's blog # the main title
+title: Theory's blog # the main title
 
-tagline: Computerphile | bytebender | Researcher # it will display as the subtitle
+tagline: CyberSecurity Analyst | CTF Plater # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A friendly blog platform where i'll discuss about
@@ -28,20 +28,20 @@ description: >- # used by seo meta and the atom feed
 url: "https://themcsam.github.io"
 
 github:
-  username: theMcSam # change to your GitHub username
+  username: 7h30ry # change to your GitHub username
 
 twitter:
-  username: theMcSam # change to your Twitter username
+  username: Paul__ige # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Ardayfio Samuel Nii Aryee
-  email: ardisam9876@gmail.com # change to your email address
+  name: Paul Adekunle Ige
+  email: igepaul89@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/theMcSam # change to your Twitter homepage
-    - https://github.com/theMcSam # change to your GitHub homepage
+    - https://twitter.com/Paul__ige # change to your Twitter homepage
+    - https://github.com/7h30ry # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -100,7 +100,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/65866483?v=4
+avatar: https://avatars.githubusercontent.com/u/51336409?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
