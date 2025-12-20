@@ -6,9 +6,6 @@ order: 4
 
 **-> WHOAMI ?**
 
-I am McSam.
+I am Theory. Your friendly neighboorhood Hacker
 
-**-> CERTIFICATIONS**
-
-> Offensive Security Certified Professional (OSCP)<br>
 
