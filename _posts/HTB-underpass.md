@@ -1,13 +1,3 @@
-
----
-title: Underpass @ HTB
-date: 2025-12-20
-categories: [Machine, HTB]
-tags: [writeups, HTB, Machines]
-math: true
-mermaid: true
----
-
 ```ip/hostname: 10.10.11.48/underpass.htb```
 
 ## Scan
