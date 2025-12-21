@@ -1,11 +1,11 @@
 ---
-title: Athena @ HTB
+title: Athena @ THM
 date: 2023-12-21 17:00:00 +0000
-categories: [Machines, HTB]
+categories: [Machines, THM]
 tags: [Athena]
 math: true
 mermaid: true
-media_subpath: /assets/posts/2023-12-21-HTB-Athena
+media_subpath: /assets/posts/2023-12-21-THM-Athena
 image:
   path: preview.png
 ---
