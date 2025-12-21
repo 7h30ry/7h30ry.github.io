@@ -7,7 +7,7 @@ math: true
 mermaid: true
 media_subpath: /assets/posts/2023-10-24-THM-Hijack
 image:
-  path: preview.jpeg
+  path: preview.png
 ---
 
 # Hijack
