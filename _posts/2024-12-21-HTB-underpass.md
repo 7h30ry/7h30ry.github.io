@@ -1,11 +1,11 @@
 ---
 title: Underpass @ HTB
-date: 2025-12-19 17:00:00 +0000
+date: 2024-12-21 17:00:00 +0000
 categories: [Machines, HTB]
 tags: [daloradius]
 math: true
 mermaid: true
-media_subpath: /assets/posts/HTB-underpass
+media_subpath: /assets/posts/2024-12-21-HTB-underpass
 image:
   path: preview.png
 ---
