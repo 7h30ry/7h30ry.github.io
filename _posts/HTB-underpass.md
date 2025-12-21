@@ -1,9 +1,13 @@
 ---
 title: Underpass @ HTB
+date: 2025-12-19 17:00:00 +0000
 categories: [Machines, HTB]
-tags: [HTB, Machines, daloradius]
+tags: [daloradius]
 math: true
 mermaid: true
+media_subpath: /assets/posts/HTB-underpass
+image:
+  path: preview.png
 ---
 
 ```ip/hostname: 10.10.11.48/underpass.htb```
