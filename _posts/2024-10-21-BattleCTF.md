@@ -1,7 +1,7 @@
 ---
 title: BattleCTF
 date: 2024-10-21 11:59:31 +0100
-categories: [REV, CTF]
+categories: [pwn, CTF]
 tags: [AD1, rc4_encrypt]
 math: true
 mermaid: true
@@ -24,7 +24,7 @@ We are provided with an AD1 Evidence File.
 Opening up the file in FTK Imager
 
 ![image](https://github.com/user-attachments/assets/a4b86b7a-a32e-40f8-b867-d19189a324d2)
-We are prompted to provide a password, after a lot of guessed passwords. I decided to look at the challenge name and use Dororo as the password i.e (Do[ro x2] which worked
+We are prompted to provide a password, after a lot of guessed passwords. I decided to look at the challenge name and use Dororo as the password i.e (Do[ro x2]) which worked
 
 ![image](https://github.com/user-attachments/assets/f5ee9390-7f74-48a2-804f-3345304e10f1)
 Inputing the correct password, getting the flag was easy
@@ -39,10 +39,10 @@ so looking for exploits this worked
 the next thing is for me to get a reversrse shell
 
  i upload a shell.sh shell.sh file and executed it 
-![Screenshot from 2024-10-21 20-46-47](https://github.com/user-attachments/assets/1bd8953c-f1a8-4871-a928-d2360fdbb6fe)
+![image](https://private-user-images.githubusercontent.com/51336409/378576954-1bd8953c-f1a8-4871-a928-d2360fdbb6fe.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYzMzg0ODcsIm5iZiI6MTc2NjMzODE4NywicGF0aCI6Ii81MTMzNjQwOS8zNzg1NzY5NTQtMWJkODk1M2MtZjFhOC00ODcxLWE5MjgtZDIzNjBmZGJiNmZlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjIxVDE3Mjk0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc2YjY5NmNhOWQ3MjUxM2QxZGVkMWIyYjNhMWViNWQxMDZjY2YxYThiYzIwZDk1YWIxYzkwNDY5ZDhhYzUzYzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1S6fI93UPjIqFckSGoRTWLVEzJvsQibsdmoebQi7nng)
 
 For privilege escalation i did ```dash -p``` and got root
-![Screenshot from 2024-10-21 20-48-07](https://github.com/user-attachments/assets/19ed86ff-346f-4478-a204-6832542317ee)
+![image](https://private-user-images.githubusercontent.com/51336409/378577190-19ed86ff-346f-4478-a204-6832542317ee.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYzMzg0ODcsIm5iZiI6MTc2NjMzODE4NywicGF0aCI6Ii81MTMzNjQwOS8zNzg1NzcxOTAtMTllZDg2ZmYtMzQ2Zi00NDc4LWEyMDQtNjgzMjU0MjMxN2VlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjIxVDE3Mjk0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA1ZWFhMTY5YzVlOTkxMmJiNGZmODFkOWE3ZTMwOWZmYjc4YWNiMjhiZjk3MjBlYjlkM2I4ZjllZjU4MmU2ODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cT-wzq0ZQcPkd-pA7MmAwWNu37k8Q7uDdENS4zd3ttQ)
 
 
 ## Rules
