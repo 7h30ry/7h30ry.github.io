@@ -14,7 +14,7 @@ image:
 
 ![image](https://github.com/user-attachments/assets/39f0b7e9-9548-427f-9e9a-653f6514afd6)
 
-Hello guys, I'm `0x1337` and last night I participated in ImaginaryCTF 
+Hello guys, This challenges were solved by `0x1337`(h4ckyou) my teamates these are his solves for the ImaginaryCTF 
 
 Even though I started really late i'm happy to have least solved some challenges
 
