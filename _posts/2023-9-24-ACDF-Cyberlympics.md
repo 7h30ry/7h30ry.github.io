@@ -1,5 +1,5 @@
 ---
-title: Ecowas CTF 2023 ( Prequalification )
+title: ACDF-Cyberlympics 2023
 date: 2023-9-20 00:10:51 +0100
 categories: [ACDF, CTF]
 tags: [web, Jail Break, rev]
