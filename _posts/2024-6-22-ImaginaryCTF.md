@@ -1,6 +1,6 @@
 ---
 title: ImaginaryCTF 2024
-date: 2023-9-24 06:56:36 +0100
+date: 2024-6-22 06:56:36 +0100
 categories: [ImaginaryCTF, CTF]
 tags: [web, pwn, rev]
 math: true
