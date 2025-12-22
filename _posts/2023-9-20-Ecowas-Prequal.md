@@ -7,7 +7,7 @@ math: true
 mermaid: true
 media_subpath: /assets/posts/2023-9-20-Ecowas-Prequal
 image:
-  path: preview.jpeg
+  path: preview.jpg
 ---
 
 <h3>
