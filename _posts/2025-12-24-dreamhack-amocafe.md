@@ -89,12 +89,13 @@ for i in range(0, 16):
 The display string reads left-to-right as most-to-least significant
 
 **Encoding Rules**
-Nibble Value       Condition	    Output
-0	res == 0	   format(0, 'x') → '0'
-1-9	0 < res < 12	str(res) → '1' to '9'
-10	0 < res < 12	str(10) → '10' (2 chars!)
-11	~11 & 0xf == 0x4 ✓	'_'
-12-15	res >= 12	format(res, 'x') → 'c', 'd', 'e', 'f'
+| Nibble Value | Condition | Output |
+|--------------|-----------|--------|
+| 0 | `res == 0` | `format(0, 'x')` → `'0'` |
+| 1-9 | `0 < res < 12` | `str(res)` → `'1'` to `'9'` |
+| 10 | `0 < res < 12` | `str(10)` → `'10'` (2 chars!) |
+| 11 | `~11 & 0xf == 0x4` ✓ | `'_'` |
+| 12-15 | `res >= 12` | `format(res, 'x')` → `'c'`, `'d'`, `'e'`, `'f'` |
 
 **Critical insight:** The underscore _ represents nibble value 11 because:
 Binary 11 = 1011
