@@ -2,7 +2,7 @@
 title: login-1 @ Dreamhack
 date: 2026-01-08 14:00:36 +0100
 categories: [dreamhack, wargames]
-tags: [python, web, race condition, TOCTOU]
+tags: [web, race condition, TOCTOU]
 math: true
 mermaid: true
 media_subpath: /assets/posts/dreamhack
