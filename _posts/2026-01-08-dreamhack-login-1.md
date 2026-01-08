@@ -1,6 +1,6 @@
 ---
 title: login-1 @ Dreamhack
-date: 2026-01-08 14:00:36 +0100
+date: 2026-01-08 2:00:36 +0100
 categories: [dreamhack, wargames]
 tags: [web, race condition, TOCTOU]
 math: true
