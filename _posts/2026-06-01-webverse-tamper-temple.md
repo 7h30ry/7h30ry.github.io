@@ -1,6 +1,6 @@
 ---
 title: Tamper Temple @ Webverse
-date: 2026-06-01 12:00:00 +0100
+date: 2026-06-01 00:00:00 +0000
 categories: [Webverse, CTF]
 tags: [web, JWT, BFLA, broken-function-level-authorization, alg-none, http-method-override, ip-spoofing, api]
 math: false
