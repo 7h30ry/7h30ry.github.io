@@ -8,7 +8,7 @@ order: 4
 
 I am **Paul Adekunle Ige**, known in most places online as **Theory**.
 
-Nigerian. Cybersecurity professional. CTF player. I graduated from **Ladoke Akintola University of Technology (LAUTECH)** with a Bachelor's degree in Cybersecurity, finishing with a Second Class Upper and a CGPA of **4.30/5.0**. I take the academic side seriously, but what I care about most is the practical work.
+Nigerian. Cybersecurity professional. CTF player. I graduated from **Ladoke Akintola University of Technology (LAUTECH)** with a Bachelor of Technology (BTech) in Cybersecurity, a five-year programme, finishing with a Second Class Upper and a CGPA of **4.30/5.0**. I take the academic side seriously, but what I care about most is the practical work.
 
 I currently work as a **Cybersecurity Analyst**, based in Dakar, Senegal, where I get to spend my days doing the kind of work I would have been doing for free anyway.
 
