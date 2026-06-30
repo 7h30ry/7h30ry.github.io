@@ -17,7 +17,7 @@ This is my full recap of the **ECOWAS Cybersecurity Hackathon 2026**, the region
 
 ## Who Am I
 
-I'm Theory. Cybersecurity, CTFs, the whole thing. I'm Nigerian but for the past few months I've been based in Dakar, Senegal for an internship. I compete with team **error** alongside Mark ([h4cky0u](https://h4ckyou.github.io)), securedviki, and proflamyt. We've been at this together for years, and this was our fourth straight shot at the ECOWAS regional finals.
+I'm Theory. Cybersecurity, CTFs, the whole thing. I'm Nigerian but for the past 8 months I've been based in Dakar, Senegal working as a cybersecurity analyst. I compete with team **error** alongside Mark ([h4cky0u](https://h4ckyou.github.io)), securedviki, and proflamyt. We've been at this together for years, and this was our fourth straight shot at the ECOWAS regional finals.
 
 ## Our ECOWAS History
 
@@ -50,7 +50,7 @@ The route took us through **Lomé, Togo** for a layover, and that transit turned
 
 We boarded the onward flight together and landed in Accra that evening.
 
-At the hotel, I finally linked up with the rest of my team. Mark and I hadn't seen each other in about three months, since I left for Senegal. That reunion had a proper weight to it.
+At the hotel, I finally linked up with the rest of my team. Mark and I hadn't seen each other in about 8 months, since I moved to Senegal. That reunion had a proper weight to it.
 
 ![Reunited in Accra](https://h4ckyou.github.io/assets/posts/2026-06-24-Ecowas-Recap/IMG_4302.jpg)
 
