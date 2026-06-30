@@ -8,13 +8,17 @@ order: 4
 
 I am **Paul Adekunle Ige**, known in most places online as **Theory**.
 
-Nigerian. Cybersecurity professional. CTF player. I graduated from **Ladoke Akintola University of Technology (LAUTECH)** with a Bachelor of Technology (BTech) in Cybersecurity, a five-year programme, finishing with a Second Class Upper and a CGPA of **4.30/5.0**. I take the academic side seriously, but what I care about most is the practical work.
+*(Oui, comme la théorie — parce que tout commence par une hypothèse.)*
 
-I currently work as a **Cybersecurity Analyst**, based in Dakar, Senegal, where I get to spend my days doing the kind of work I would have been doing for free anyway.
+Nigerian. Cybersecurity professional. CTF addict. I graduated from **Ladoke Akintola University of Technology (LAUTECH)** with a Bachelor of Technology (BTech) in Cybersecurity, a five-year programme, finishing with a Second Class Upper and a CGPA of **4.30/5.0**. I take the academic side seriously, but what I care about most is the practical work — breaking things, understanding why they broke, and occasionally fixing them before someone else gets there first.
+
+I currently work as a **Cybersecurity Analyst**, based in Dakar, Senegal, where I get to spend my days doing the kind of work I would have been doing for free anyway. *Pas mal, non ?*
+
+---
 
 **-> CTFs & Competition**
 
-I have been playing Capture the Flag competitions since **2022** across every category: web exploitation, binary exploitation, reverse engineering, forensics, OSINT, cryptography, and everything in between. Over those years I have competed at all levels, from local qualifiers to regional finals.
+I have been playing Capture the Flag competitions since **2022** across every category: web exploitation, binary exploitation, reverse engineering, forensics, OSINT, cryptography, and everything in between. At this point CTFs are less of a hobby and more of a lifestyle. My teammates will confirm this. Reluctantly.
 
 Most notably, I compete with team **error**, representing Nigeria at the ECOWAS Cybersecurity Hackathon. We have placed on the podium every year since we started:
 
@@ -25,16 +29,33 @@ Most notably, I compete with team **error**, representing Nigeria at the ECOWAS 
 | 2024 | 🥉 3rd Place |
 | 2026 | 🥇 1st Place |
 
-The 2026 win at the ECOWAS Regional Finals in Accra, Ghana was one of the most satisfying moments of my career so far. We had been building toward it for years.
+The 2026 win at the ECOWAS Regional Finals in Accra, Ghana was one of the most satisfying moments of my career so far. *On a travaillé dur pour ça* — and it showed.
 
-**-> What I Do**
+---
 
-On this blog you will find CTF writeups, machine walkthroughs (HackTheBox, TryHackMe), and occasional posts on real-world security topics. I write to document what I learn and hopefully give back to a community that taught me a lot.
+**-> Ce que je fais ici** *(What I Do Here)*
 
-I am always looking to grow, collaborate, and contribute to the cybersecurity space in Africa and beyond. If you want to connect, reach out.
+On this blog you will find CTF writeups, machine walkthroughs (HackTheBox, TryHackMe), and occasional posts on real-world security topics. I write to document what I learn and hopefully give back to a community that taught me a lot. If something on here helps you get a flag, that is enough for me.
+
+*Ce blog, c'est mon carnet de notes — mais en public.*
+
+I am always looking to grow, collaborate, and do great things in the cybersecurity space in Africa and beyond. The continent has serious talent. I intend to be part of proving that.
+
+---
+
+**-> Fun Facts**
+
+- I am Nigerian, living in Senegal, writing this in English, occasionally thinking in French. *C'est compliqué.*
+- My alias is Theory because every exploit starts as a theory first.
+- I once traveled through Togo to get to a CTF competition and ended up sitting in the same airport as two of the teams I would later beat on the podium. *Le destin a de l'humour.*
+- I have spent more time reading CVEs than novels. No regrets.
+
+---
 
 **-> Contact**
 
 - GitHub: [7h30ry](https://github.com/7h30ry)
 - Twitter/X: [@Paul__ige](https://twitter.com/Paul__ige)
 - Email: igepaul89@gmail.com
+
+*N'hésitez pas à me contacter — I don't bite. Unless it's a pentest.*
